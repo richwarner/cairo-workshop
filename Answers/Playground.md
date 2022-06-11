@@ -1,8 +1,12 @@
+
+Function
+
 %builtins output
 from starkware.cairo.common.serialize import serialize_word
 
-# Create a function to add one to a value
-# It should take one parameter called y
+func addOne(y : felt) -> (x : felt):
+    return (x = y + 1)
+end
 
 func main{output_ptr : felt*}():
 
@@ -14,3 +18,6 @@ func main{output_ptr : felt*}():
         
     return ()
 end
+
+
+

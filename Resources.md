@@ -22,7 +22,7 @@ https://github.com/starkware-libs/cairo-lang/tree/master/src/starkware/cairo/com
 (https://github.com/argentlabs/argent-contracts-starknet/tree/main/contracts)
 
 
-[Cairo Plauground]
+[Cairo Playground]
 (https://www.cairo-lang.org/playground/)
 
 [Language support in VSCode]
