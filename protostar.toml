@@ -7,4 +7,10 @@ libs_path = "cairoWorkShop"
 ["protostar.contracts"]
 main = [
     "exercises/main.cairo",
+    "exercises/cairo/ex1.cairo",
+    "exercises/cairo/ex2.cairo"
+    "exercises/cairo/ex3.cairo",
+    "exercises/cairo/ex4.cairo"
+    "exercises/cairo/ex5.cairo",
+    "exercises/cairo/ex6.cairo"
 ]
